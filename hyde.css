@@ -1,0 +1,26 @@
+body{
+    background: #553B39;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.name {
+    width: 100vh;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content{
+    height: 85vh;
+    width: 100vh;
+}
+.text{
+    font-size: 43px;
+    border: 1px groove black;
+    padding: 20px;
+}
+
+.text h3{
+    font-size: 20px;
+    width: 100vh;
+}
